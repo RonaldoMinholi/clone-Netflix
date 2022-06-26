@@ -45,7 +45,7 @@ header nav a:hover {
 .filme-principal {
     font-size: 16px;
     background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('../img/hQrHN6WXERVw6XUMpfCgLfvrh5V.jpg');
-    height: 400px;
+    height: 500px;
     background-size: cover;
 
     display: flex;
@@ -61,7 +61,7 @@ header nav a:hover {
 }
 
 .filme-principal .titulo {
-    margin-top: 15%;
+    margin-top: 5%;
     font-size: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -91,7 +91,7 @@ header nav a:hover {
 }
 
 .filme-principal .container {
-    width: 40%;
+    width: 80%;
 }
 
 .box-filme {
@@ -99,4 +99,8 @@ header nav a:hover {
     width: 100%;
     display: block;
 
+}
+
+.carrousel-filmes {
+    margin-top: 5px;
 }
